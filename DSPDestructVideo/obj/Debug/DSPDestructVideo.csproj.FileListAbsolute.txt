@@ -1,0 +1,5 @@
+C:\Users\Lin\Desktop\Mod\DSPDestructVideo\DSPDestructVideo\bin\Debug\DSPDestructVideo.dll
+C:\Users\Lin\Desktop\Mod\DSPDestructVideo\DSPDestructVideo\bin\Debug\DSPDestructVideo.pdb
+C:\Users\Lin\Desktop\Mod\DSPDestructVideo\DSPDestructVideo\obj\Debug\DSPDestructVideo.csproj.CoreCompileInputs.cache
+C:\Users\Lin\Desktop\Mod\DSPDestructVideo\DSPDestructVideo\obj\Debug\DSPDestructVideo.dll
+C:\Users\Lin\Desktop\Mod\DSPDestructVideo\DSPDestructVideo\obj\Debug\DSPDestructVideo.pdb
